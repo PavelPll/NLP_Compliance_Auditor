@@ -62,7 +62,7 @@ transformer les résultats qualitatifs en "un système" de pénalité numérique
 
 penalty = 3 * BLOQUANT + 2 * MAJEUR + 1 * AMBIGU
 
-SEE compute_score(findings) in report.py
+SEE: compute_score(findings) in report.py
 
 ---
 
