@@ -1,5 +1,3 @@
-Project Overview and Setup
-
 Semantic NLP system for automated verification of machine safety regulations
 ===================================
 
