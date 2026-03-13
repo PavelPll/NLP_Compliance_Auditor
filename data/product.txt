@@ -1,0 +1,39 @@
+=== FICHE PRODUIT : TOUR CNC MULTIAXES TX-900 ===
+Fabricant : Precision Industrie SAS
+Adresse : 14 rue des Usines, 38000 Grenoble
+Signataire : M. Laurent DUBOIS, Directeur Technique
+Reference : TX-900-CE-2024
+Destination : Usinage de pieces metalliques de haute precision
+Marches vises : France, Allemagne, Espagne
+--- DOCUMENTATION ---
+Description generale : PRESENTE (ref DOC-TX900-GEN)
+Dossier technique : COMPLET
+Notes de calcul mecaniques : PRESENTES
+Liste des normes appliquees : EN ISO 23125:2015, EN ISO 13849-1
+Schemas electriques : PRESENTS (ref SCH-ELEC-TX900)
+Schemas systeme de lubrification : PRESENTS (ref SCH-LUB-TX900)
+Declaration CE : SIGNEE par M. Laurent DUBOIS
+--- SECURITE ---
+Capots de protection sur broche et zone d'usinage : OUI, verrouilles
+Dispositif de coupure d'urgence : OUI, bouton rouge facade et pupitre
+Certification arret urgence : conforme EN ISO 13850
+Evaluation des risques : REALISEE - phase d'utilisation (ref
+EVR-TX900-2024)
+Reduction des risques par conception : OUI, documentee
+--- MARQUAGE ET CONFORMITE ---
+Marquage CE appose sur la machine : OUI
+Categorie machine : risque standard (non classe categorie III ou IV)
+Numero organisme notifie : NON RENSEIGNE
+Certificat examen CE de type : NON FOURNI
+--- DOCUMENTATION UTILISATEUR ---
+Notice d'instructions : PRESENTE en francais et en allemand
+Contenu notice - mise en service : OUI
+Contenu notice - utilisation : OUI
+Contenu notice - maintenance : OUI
+Contenu notice - risques residuels : OUI (section 8 - Consignes de
+securite)
+--- NOTE ADMINISTRATIVE ---
+Version notice langue d'origine (anglais) : NON INCLUSE dans la livraison
+standard
+Schemas des circuits de commande CN : EN COURS DE FINALISATION
+=== FIN ===

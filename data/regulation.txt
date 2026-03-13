@@ -1,0 +1,57 @@
+=== DIRECTIVE MACHINES SIMPLIFIEE (fictif, usage recrutement) ===
+Art.4.1 - Securite generale
+Le fabricant doit s'assurer que la machine ne presente aucun risque
+lorsqu'elle est installee, entretenue et utilisee conformement a sa
+destination.
+Art.4.2 - Dossier technique
+Le dossier technique doit comprendre :
+a) une description generale de la machine
+b) les schemas des circuits de commande (electriques, hydrauliques,
+pneumatiques)
+c) les notes de calcul justifiant les choix de conception
+d) la liste des normes harmonisees appliquees
+e) la declaration CE de conformite
+Art.5.1 - Marquage CE
+Toute machine destinee a etre commercialisee dans l'Union Europeenne doit
+porter le marquage CE avant sa mise sur le marche.
+Art.5.2 - Declaration de conformite
+La declaration CE doit mentionner : le nom et l'adresse du fabricant,
+la description de la machine, les directives appliquees, et le cas
+echeant
+le numero de l'organisme notifie. Elle doit etre signee par un
+representant
+habilite du fabricant.
+Art.6.1 - Protection des elements mobiles
+Les elements mobiles presentant un risque doivent etre proteges.
+Les dispositifs de protection ne doivent pas engendrer de risques
+supplementaires et ne doivent pas pouvoir etre facilement contournes.
+Art.6.2 - Arret d'urgence
+Chaque machine doit etre equipee d'un ou plusieurs dispositifs d'arret
+d'urgence
+permettant de prevenir les situations dangereuses, clairement identifies,
+rapidement accessibles, et conformes a la norme EN 13850.
+Art.7.1 - Notice d'instructions
+Chaque machine doit etre accompagnee d'une notice redigee dans la langue
+officielle de chaque Etat membre dans lequel la machine est mise sur le
+marche.
+La version dans la langue d'origine du fabricant doit egalement etre
+fournie.
+Art.7.2 - Contenu de la notice
+La notice doit contenir : la raison sociale du fabricant, la designation
+de la machine, les instructions de mise en service, d'utilisation et de
+maintenance, ainsi que les risques residuels identifies lors de
+l'evaluation.
+Art.8.1 - Evaluation des risques
+Le fabricant doit realiser une evaluation des risques couvrant l'ensemble
+du cycle de vie de la machine et en documenter les resultats.
+Art.8.2 - Reduction des risques
+Ordre de priorite obligatoire :
+1) elimination ou reduction des risques par conception
+2) mesures de protection
+3) information des utilisateurs sur les risques residuels
+Art.9.1 - Organismes notifies
+Pour les machines classees a risque eleve (categorie III ou IV),
+l'intervention d'un organisme notifie est obligatoire avant mise sur le
+marche.
+L'organisme delivre un certificat d'examen CE de type.
+=== FIN ===
