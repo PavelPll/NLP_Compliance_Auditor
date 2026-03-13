@@ -1,6 +1,4 @@
-README - Project Overview and Setup
-nlp_compliance_auditor
-compliance_audit
+Project Overview and Setup
 Semantic NLP system for automated verification of machine safety regulations
 ===================================
 
