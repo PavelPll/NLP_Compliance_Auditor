@@ -61,6 +61,7 @@ SEE detect_ambiguity() in comparator.py.
 transformer les résultats qualitatifs en "un système" de pénalité numérique
 penalty = 3 * BLOQUANT + 2 * MAJEUR + 1 * AMBIGU
 SEE compute_score(findings) in report.py
+
 ---
 
 ## Ecarts et cas ambigus
