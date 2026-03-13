@@ -24,7 +24,6 @@ Semantic NLP system for automated verification of machine safety regulations
 - `notebooks/` – audit notebook  
 - `scripts/` – execution scripts  
 - `lib/` – text processing and similarity utilities  
-- `documents/` – project documentation and presentations
 
 ## Environment Setup
 
